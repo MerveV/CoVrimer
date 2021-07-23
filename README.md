@@ -19,6 +19,17 @@ In our analysis, positions exhibiting less than 0.1% mutation frequency were con
 -------------------------------------------------------------------------------------
 
 
+ <span style="color:red"> **Red dots (above the threshold (0.1%))**</span> and <span style="color:orange"> **orange dots (below the threshold (0.1%))**</span> represent mutations in nucleotides.
+
+ <span style="color:blue"> **Blue**</span> 
+ and <span style="color:green"> **green**</span> letters refer to the nucleotides in the reference genome (NC_045512) and indicate primer binding sites and the region between primers, respectively.
+
+ Next to the points are the degenerate IUPAC codes for each alteration.
+                              
+PhyloP values (44 Bat virus strains Basewise Conservation) were obtained from UCSC.
+
+-------------------------------------------------------
+
 
 
 **Country:** Country of the study
