@@ -30,6 +30,30 @@ PhyloP values (44 Bat virus strains Basewise Conservation) were obtained from UC
 
 -------------------------------------------------------
 
+#IUPAC Codes
+
+**R:**	A or G
+
+**Y:**	C or T
+
+**S:** G or C
+
+**W:**	A or T
+
+**K:**	G or T
+
+**M:**	A or C
+
+**B:**	C or G or T
+
+**D:**	A or G or T
+
+**H:**	A or C or T
+
+**V:**	A or C or G
+
+**N:**	any base
+
 
 
 **Country:** Country of the study
