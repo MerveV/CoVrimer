@@ -6,6 +6,10 @@ Variation data were taken from [CNCN-NGDC](https://bigd.big.ac.cn/ncov/) on May 
 
 In our analysis, positions exhibiting less than 0.1% mutation frequency were considered conserved. 
 
+
+-------------------------------------------------------------------------------------
+
+
 *Degenerate primers were designed to include 82 variants from 10 different SARS-CoV-2 strains (B.1.1.7, P.1, P.2, B.1.351, B.1.617.1, B.1.526, B.1.526.1, B.1.526.2, B.1.427 and B.1.429)*
 
 
@@ -48,3 +52,5 @@ In our analysis, positions exhibiting less than 0.1% mutation frequency were con
 **Date:** Publication date of the article
 
 **Link:** Easy access to the article
+
+-------------------------------------------------------------------------------------
