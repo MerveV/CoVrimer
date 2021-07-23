@@ -8,36 +8,28 @@ In our analysis, positions exhibiting less than 0.1% mutation frequency were con
 
 *Degenerate primers were designed to include 82 variants from 10 different SARS-CoV-2 strains (B.1.1.7, P.1, P.2, B.1.351, B.1.617.1, B.1.526, B.1.526.1, B.1.526.2, B.1.427 and B.1.429)*
 
-###################################
+
+
+
+
+
+
+
+
 
 **Country:** Country of the study
-
 **Panel:** Panel names or given name for that primer pair (CDC Panel (Centers for Disease Control and Prevention), HKU panel, NMDC Panel (National Microbiology Data Center ), WHO Panel (World Health Organization)
- 
-**Target Gene:** The gene where primer pair binds to
- 
+**Target Gene:** The gene where primer pair binds to 
 **Label:** Forward, Reverse and Probe labels
-
 **Primer Sets:** Sequences of the oligonucleotides in the Primer set
-
 **Degenerate Version:**  Sequences of the primers in the primer set with degenerate nucleotides incorporated at positions exhibiting mutation frequency over threshold
-
 **Positions:** Start and end position of primers 
-
 **Amplicon Size:** Length of the product 
-
 **Mutation Number in Fw/Rv:** Number of mutated positions in forward/reverse primer binding region
- 
 **Mutation Frequency in Fw/Rv:** Frequency of mutation events at each position of forward/reverse primer binding region
-
 **Reference Genome:** Genome used in the study for primer design
-
 **Used Programs:** The programs used for sequence alignment and primer design 
-
 **Type of Test:** Type of diagnostic test for which primers are designed and used
-
 **PMID:** Article Identifiers for PUBMED  
-
 **Date:** Publication date of the article
-
 **Link:** Easy access to the article
